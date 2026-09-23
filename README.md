@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 ## Linked List
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
