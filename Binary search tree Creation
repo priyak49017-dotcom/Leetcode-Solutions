@@ -1,0 +1,56 @@
+import java.util.*;
+class Node{
+    int data;
+    Node left;
+    Node right;
+    Node(int data){
+        this.data=data;
+        left=null;
+        right=null;
+    }
+}
+class BST{
+    
+    Node create(Node root,int data){
+        if(root == null){
+            root=new Node(data);
+            return root;
+        }
+        if(data < root.data){
+            root.left=create(root.left,data);
+        }
+        else if(data > root.data){
+            root.right=create(root.right,data);
+        }
+        return root;
+        
+    }
+    void inorder(Node root){
+        if(root == null) return;
+        inorder(root.left);
+        System.out.print(root.data+" ");
+        inorder(root.right);
+        
+    }
+}
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    Node root=null;
+	    BST b=new BST();
+	    root=b.create(root,10);
+	    b.create(root,20);
+	    b.create(root,30);
+	    b.create(root,40);
+	    b.create(root,50);
+	    b.create(root,60);
+	    b.create(root,15);
+	    b.create(root,21);
+	    b.create(root,11);
+	    b.create(root,69);
+	    b.create(root,26);
+	    b.inorder(root);
+		
+	}
+}
