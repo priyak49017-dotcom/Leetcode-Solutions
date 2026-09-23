@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
