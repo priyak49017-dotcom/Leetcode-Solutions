@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
