@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
