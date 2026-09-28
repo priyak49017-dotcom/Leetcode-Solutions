@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 ## Breadth-First Search
