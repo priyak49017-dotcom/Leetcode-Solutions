@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -231,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -395,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
