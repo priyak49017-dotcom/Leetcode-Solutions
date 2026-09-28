@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Matrix
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
