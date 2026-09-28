@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
