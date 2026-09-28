@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
