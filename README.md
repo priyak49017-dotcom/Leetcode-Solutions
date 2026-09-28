@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Recursion
 |  |
