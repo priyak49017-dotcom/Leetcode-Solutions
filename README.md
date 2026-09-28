@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search Tree
 |  |
