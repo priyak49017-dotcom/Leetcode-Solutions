@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
