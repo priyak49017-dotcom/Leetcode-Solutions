@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Matrix
