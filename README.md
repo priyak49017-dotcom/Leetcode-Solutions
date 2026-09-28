@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search Tree
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
