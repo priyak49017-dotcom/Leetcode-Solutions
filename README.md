@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
