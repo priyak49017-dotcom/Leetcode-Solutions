@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
