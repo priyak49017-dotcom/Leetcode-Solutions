@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1609-even-odd-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 ## Recursion
 |  |
 | ------- |
