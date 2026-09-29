@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -430,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
