@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1642-furthest-building-you-can-reach](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
