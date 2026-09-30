@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2233-maximum-product-after-k-increments](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1642-furthest-building-you-can-reach](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2233-maximum-product-after-k-increments](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 ## Math
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2233-maximum-product-after-k-increments](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 ## Geometry
 |  |
 | ------- |
