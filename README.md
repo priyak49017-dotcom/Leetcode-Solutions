@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Merge Sort
