@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Matrix
 |  |
