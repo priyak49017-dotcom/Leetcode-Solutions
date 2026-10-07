@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
