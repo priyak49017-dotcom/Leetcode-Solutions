@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Cartesian Tree
 |  |
 | ------- |
