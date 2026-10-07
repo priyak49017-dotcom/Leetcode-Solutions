@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
