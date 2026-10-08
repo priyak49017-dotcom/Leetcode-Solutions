@@ -576,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
