@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/priyak49017-dotcom/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
